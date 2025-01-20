@@ -30,7 +30,7 @@ def exchange(old, new, amt):
     Precondition: amt is a float
     """
 
-
+   
 def before_space(s):
     """
     Returns a copy of s up to, but not including, the first space
