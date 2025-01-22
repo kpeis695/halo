@@ -4,7 +4,7 @@ Test script for module a1
 When run as a script, this module invokes several procedures that
 test the various functions in the module a1.
 
-Author: SYLVESTER
+Author: SYLVESTER KPEI 
 Date:   9/20/2024
 """
 import introcs
