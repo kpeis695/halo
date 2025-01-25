@@ -44,7 +44,7 @@ def after_space(s):
     Returns a copy of s after the first space
     Parameter s: the string to slice
     Precondition: s is a string with at least one space
-    """
+    """ 
     return s[s.index(' ')+1:]
 
 
