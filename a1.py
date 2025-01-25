@@ -31,7 +31,7 @@ def exchange(old, new, amt):
     """
 
    
-def before_space(s):
+def before_space(s):   
     """
     Returns a copy of s up to, but not including, the first space
     Parameter s: the string to slice
