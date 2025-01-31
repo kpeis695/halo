@@ -10,7 +10,7 @@ Author: SYLVESTER sek266
 Date:   9/20/2024
 """
 import introcs
-def exchange(old, new, amt):
+def exchange(old, new, amt):      
     """
     Returns the amount of currency received in the given exchange.
 
@@ -18,7 +18,7 @@ def exchange(old, new, amt):
     to the currency new. The value returned represents the amount in
     currency new.
 
-    The value returned has type float.
+    The value returned has type float
 
     Parameter old: the currency on hand (the SRC)
     Precondition: old is a string for a valid currency code
