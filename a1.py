@@ -1,4 +1,4 @@
- 
+
 """
 Module for currency exchange
 
@@ -10,7 +10,7 @@ Author: SYLVESTER sek266
 Date:   9/20/2024
 """
 import introcs
-def exchange(old, new, amt):      
+def exchange(old, new, amt):
     """
     Returns the amount of currency received in the given exchange.
 
@@ -18,7 +18,7 @@ def exchange(old, new, amt):
     to the currency new. The value returned represents the amount in
     currency new.
 
-    The value returned has type float
+    The value returned has type float.
 
     Parameter old: the currency on hand (the SRC)
     Precondition: old is a string for a valid currency code
@@ -30,8 +30,8 @@ def exchange(old, new, amt):
     Precondition: amt is a float
     """
 
-   
-def before_space(s):   
+
+def before_space(s):
     """
     Returns a copy of s up to, but not including, the first space
     Parameter s: the string to slice
@@ -44,7 +44,7 @@ def after_space(s):
     Returns a copy of s after the first space
     Parameter s: the string to slice
     Precondition: s is a string with at least one space
-    """ 
+    """
     return s[s.index(' ')+1:]
 
 
