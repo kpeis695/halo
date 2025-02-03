@@ -10,7 +10,7 @@ Date:   9/20/2024
 import introcs
 import a1
 def testA():
-    """
+    """    
     Test procedure for Part A. This is a test procedure that tests
     how a string with at least one space can be broken up.
     """
